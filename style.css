@@ -4,6 +4,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
+  background:#081b29;
 }
 
  body{
@@ -51,6 +52,7 @@
   display: flex;
   align-items: center;
   padding: 0 10%;
+  color: #ededed;
  }
 
  .home-content{
@@ -164,7 +166,7 @@
 }
 
 .home-sci a:hover{
- color: #081b29;
+ color: #00abf0;
 }
 
 .home-sci a::before{
